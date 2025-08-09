@@ -23,7 +23,7 @@ import time
 import concurrent.futures
 
 # URL of your Render site
-TARGET_URL = "https://gaza-aid-encyclopedia.onrender.com"  # put here your render url pirate
+TARGET_URL = "https://yourprojectname.onrender.com"  # put here your render url pirate
 
 # Proxy list API (HTTPS only)
 PROXY_API = "https://api.proxyscrape.com/v2/?request=getproxies&protocol=https&timeout=8000&country=all"
