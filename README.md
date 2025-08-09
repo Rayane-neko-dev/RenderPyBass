@@ -1,19 +1,4 @@
-         ^
-       //                        ___   ___
-     (*)     "O"                /  _   _  \
-    (*)                           / \ / \
-   (*)    "O"                    |   |   |    |\
-  //                             |O  |O  |___/  \     ++
- //                               \_/ \_/    \   | ++
-//                              _/      __    \  \
-/     /|   /\                  (________/ __   |_/
-     / |  |  |                   (___      /   |    |\
-    / /  /   |                     \     \|    |___/  |
-   |  | |   /                       \_________      _/   ++++
-  /   | |  |                      ++           \    |
- |   / /   |                              ++   |   /  +++
-/   /  |   |                               ++ /__/
-~~~ ~~~~   ~~~~~~~~~~~~  ~~~~~~~~~~~~~  ~~~~        ~~+++~~~~ ~
+
 # renderPyBass
 
 `renderPyBass` is a Python-based tool designed to keep free-plan Render web apps "awake" by periodically sending requests.
